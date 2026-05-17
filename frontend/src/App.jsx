@@ -128,7 +128,7 @@ function Landing({onDone}){
           <button onClick={()=>go(inp)} disabled={busy||!inp.trim()} style={{padding:"0 20px",borderRadius:12,background:"rgba(0,212,255,0.15)",border:"1px solid rgba(0,212,255,0.35)",color:"#00d4ff",cursor:"pointer",fontSize:18,opacity:busy||!inp.trim()?.3:1}}>➤</button>
         </div>
       </div>
-      <div style={{marginTop:30,fontSize:12,color:"rgba(255,255,255,0.2)",letterSpacing:1}}>CareWatch · MYTHON Oujda 2026</div>
+      <div style={{marginTop:30,fontSize:12,color:"rgba(255,255,255,0.2)",letterSpacing:1}}>CareWatch</div>
       <style>{`@keyframes bounce{0%,80%,100%{opacity:.3;transform:scale(.8)}40%{opacity:1;transform:scale(1.1)}}`}</style>
     </div>
   );
