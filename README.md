@@ -238,13 +238,6 @@ const FROM_NAME = "CareWatch";
 | SpO₂ | < 92% | Critical | EMERGENCY — call help |
 | Heart Rate | > 105 bpm | High | Breathe slowly, sit |
 
----
-
-## 🤝 Team
-
-**MYTHON · Oujda · 2026**
-
----
 
 ## 📄 License
 
